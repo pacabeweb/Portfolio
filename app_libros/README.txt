@@ -6,3 +6,5 @@ Aplicación de gestión de libros desde localhost
    Creamos nuevo usuario para poder comenzar a utilizar la app.
    Una vez en la página principal, introducimos nuevo libro y, a partir de ahí, podemos realizar
    acciones de buscar, modificar registros o eliminarlos.
+
+Creada con html, css y php.
